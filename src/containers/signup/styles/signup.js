@@ -5,7 +5,8 @@ export const useStyles = makeStyles((theme) => ({
         backgroundImage: `url(${"images/backgrounds/signin.jpg"})`,
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
-        color : "white"
+        color : "white",
+        minHeight : "73vh",
       }
     },
     
